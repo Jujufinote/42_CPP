@@ -1,4 +1,4 @@
-![cpp](https://github.com/Jujufinote/42-project-badges/blob/main/covers/cover-cpp.png)
+![cpp](https://github.com/Jujufinote/42-project-badges/blob/main/covers/cover-cpp-bonus.png)
 <br>
 <br>
 

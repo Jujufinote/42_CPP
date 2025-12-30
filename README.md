@@ -26,7 +26,7 @@ _waiting for update_
 <br>
 
 >[!WARNING]
-> Do NOT COPY my work (fonctions, makefile, etc) without thinking and understanding them (we call that cheating) and you don't want that on your case, neither have -42 correcting points on your account (if you're at a 42School).
+> Do NOT COPY my work without thinking and understanding it (we call that cheating) and you don't want that, neither have -42 correcting points (if you're at a 42school).
 > <br> PLEASE LEARN AND MAKE YOUR OWN
 <br>
 
@@ -38,5 +38,5 @@ _waiting for update_
 
 ---
 
-## 🗒️ Fonction list
+## 🗒️ Function list
 _waiting for update_

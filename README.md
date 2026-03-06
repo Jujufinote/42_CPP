@@ -25,7 +25,6 @@ _waiting for update_
 >[!WARNING]
 > Do NOT COPY my work without thinking and understanding it, we call that cheating and you don't want that <br>
 > PLEASE LEARN AND MAKE YOUR OWN
-<br>
 
 ### Step 1 :
 _waiting for update_
